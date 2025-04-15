@@ -1,6 +1,6 @@
-## Finance visualizer stage-2
+## Finance visualizer stage-3
 
-live link [https://stage-2-finance-visualiser.vercel.app/]
+live link [https://stage-3-finance-visualizer.vercel.app/]
 
 ### Features implemented
 
@@ -11,6 +11,9 @@ live link [https://stage-2-finance-visualiser.vercel.app/]
 - Predefined categories for transactions
 - Category-wise pie chart
 - Dashboard with summary cards: total expenses, category breakdown, most recent transactions
+- Set monthly category budgets
+- Budget vs actual comparison chart
+- Simple spending insights
 
 ### setup instructions
 
